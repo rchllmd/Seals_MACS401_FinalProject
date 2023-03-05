@@ -16,7 +16,7 @@ Over this last summer I was an intern at Sea Life Response, Rehabilitation, and 
 ## Data
 My data comes directly from SR3. It includes the weights of 32 seals (23 of which were released, 9 which died in hospital) from May 2022 - February 2023 for a total of 517 data points. Each data point includes seal ID, date, weight (g), and intake date. 
 
+## Analysis Methods
+I have transfered my data into an organized fashion that will easily be understood by Python. The data has been transferred to a .csv and uploaded to Python. Next I will, seperate the deceased (T/F) into linear regression patterns to see if there is a difference in weight gain between seals that were released (F) r deceased (T). From this pattern I will create a program that takes
+*Intake Weight*, *Intake Date*, and *Current Date* and will plot where the seal's current weight should lie relative to past seals. If the seal is close to the regression line for released(F) seals then the rehabilitator knows the seal is likely on track to be released. However, if the seals weight is far below the released (F) regression line and is closer to the deceased (T) regression line, this will bring awarness to the seal's weight and indicate a possible underlying issue. 
 
-Alalysis Methods An overview of the operations and analysis tasks you will incoroprate in your project.
-
-Optionally Take-aways or Conclusions If you have lerned new things from you
