@@ -4,9 +4,13 @@ Rachel Meade\
 Winter 2023
 
 ## Research Question
-Is there correlation between weight and days in rehabilitation to predict a harbor seal's survivability in a marine mammal rehabilitation setting? If correlation does exist, can we establish a working program to compare current patients weights to past patients regardles of survival?
+Is there a correlation between a harbor seal's weight and the number of days spent in rehabilitation, which can be used to predict its survivability in a marine mammal rehabilitation setting?
 
 ## Goal
+-To analyze the gathered data to see if there is a correlation between a harbor seal's weight and the number of days spent in rehabilitation in relationship to survivability or being released. 
+-To create a program from the analyzed data that a rehabilitaor will be prompted to input "Intake Date", "Current Weight(g)", and "Todays Date". The output of these three values will put a new point (red) on the plot for Ordinal Day vs Daily Change so the rehabilitaor can see where their inputted seal lies compared to previous seals in rehabilition for the same ordinal day and weight in rehabilitaion. 
+
+
 To create a program in which a marine mammal rehabilitator can input a seals intake weight, current weight, and number of days in rehabilitation to see if the pinniped is consistent with a healthy weight trajectory compared to previous seals. Additionally, present data of deceased seals to raise concern if the seal is following the weight trajectory of seals that ended up dying. 
 
 ## Motivation
