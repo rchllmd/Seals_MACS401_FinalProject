@@ -1,4 +1,4 @@
-# **Seal Weight vs Days in Rehabilitation: An Indication of Health?**
+# **Seal Weight vs Days in Rehabilitation Analysis
 ## MACS 401 Final Project 
 Rachel Meade\
 Winter 2023
