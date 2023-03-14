@@ -9,7 +9,7 @@ Is there a correlation between a harbor seal's weight and the number of days spe
 ## Goal
 -To analyze the gathered data to see if there is a correlation between a harbor seal's weight and the number of days spent in rehabilitation in relationship to survivability or being released.
 
--To create a program from the analyzed data that a rehabilitator will be prompted to input "Intake Date", "Current Weight(g)", and "Today's Date". The output of these three values will put a new point (red) on the plot for Ordinal Day vs Daily Change so the rehabilitator can see where their inputted seal lies compared to previous seals in rehabilition for the same ordinal day and weight in rehabilitaion. 
+-To create a program from the analyzed data that a rehabilitator will be prompted to input "**Intake Date**", "**Current Weight(g)**", and "**Today's Date**". The output of these three values will put a new point (red) on the plot for Ordinal Day vs Daily Change so the rehabilitator can see where their inputted seal lies compared to previous seals in rehabilition for the same ordinal day and weight in rehabilitaion. 
 
 
 ## Motivation
