@@ -1,4 +1,4 @@
-# **Seal Weight vs Days in Rehabilitation Analysis
+# Seal Weight vs Days in Rehabilitation Analysis
 ## MACS 401 Final Project 
 Rachel Meade\
 Winter 2023
