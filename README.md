@@ -9,7 +9,7 @@ Is there a correlation between a harbor seal's weight and the number of days spe
 ## Goal
 -To analyze the gathered data to see if there is a correlation between a harbor seal's weight and the number of days spent in rehabilitation in relationship to survivability or being released.
 
--To create a program from the analyzed data that a rehabilitator will be prompted to input "**Intake Date**", "**Current Weight(g)**", and "**Today's Date**". The output of these three values will put a new point (red) on the plot for Ordinal Day vs Daily Change so the rehabilitator can see where their inputted seal lies compared to previous seals in rehabilition for the same ordinal day and weight in rehabilitaion. 
+-To create a program from the analyzed data that a rehabilitator will be prompted to input "**Intake Date**", "**Current Weight(g)**", "**Today's Date**", and "**Current Weight**". The output of these three values will put a new point (red) on the plot for Ordinal Day vs Daily Change so the rehabilitator can see where their inputted seal lies compared to previous seals in rehabilition for the same ordinal day and weight in rehabilitaion. 
 
 
 ## Motivation
@@ -20,7 +20,7 @@ Over this last summer I was an intern at Sea Life Response, Rehabilitation, and 
 My data comes directly from SR3. It includes the weights of 32 seals (23 of which were released, 9 which died in hospital) from May 2022 - February 2023 for a total of 517 data points. Each data point includes seal ID, date, weight (g), and intake date. 
 
 ## Analysis Methods
-I have organized my data into a fashion that will easily be understood by Python. The data has been transferred to a .csv and uploaded to Python. I seperated the deceased (T/F) into linear regression patterns to see if there is a difference in weight gain between seals that were released(F) or deceased(T). I created four plots: cumulative change, cumulative change first 20 days, chagne from last weigh in, and daily change. I detail takeaways from each plot in markdowns for respective plots in the attatched .ipynb. From the *Daily Change* I created a program that takes a users input of *Intake Date*, *Intake Weight*, and *Current Date* and will plot where that seal (red dot) lies relative to past seals.
+I have organized my data into a fashion that will easily be understood by Python. The data has been transferred to a .csv and uploaded to Python. I seperated the deceased (T/F) into linear regression patterns to see if there is a difference in weight gain between seals that were released(F) or deceased(T). I created four plots: cumulative change, cumulative change first 20 days, chagne from last weigh in, and daily change. I detail takeaways from each plot in markdowns for respective plots in the attatched .ipynb. From the *Daily Change* I created a program that takes a users input of *Intake Date*, *Intake Weight*, *Current Date* and *Current Weight** and  will plot where that seal (red dot) lies relative to past seals.
 
 Findings: From this analysis of the data provided, you can not predict if a seal is going to be released or die based on weight and ordinal day alone. The plot is still beneficial in seeing where a seal does lie compared to others but should not be taken as soul source of information for a seals health. 
 
